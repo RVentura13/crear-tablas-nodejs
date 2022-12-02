@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.2"
+  },
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "Practica de curso de nodejs",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rony Ventura",
+  "license": "MIT"
+}
